@@ -1,0 +1,21 @@
+
+h1 {
+            text-align: center;
+            background-color: black; 
+        }
+h2 {
+            text-align: center;
+}
+p {
+            text-align: center;
+}
+body {
+            text-align: center; 
+            background-color: darkgreen;
+            color: white; 
+}
+
+.Gamma: { 
+                    width: 100%; 
+                    height: 25%;
+}
